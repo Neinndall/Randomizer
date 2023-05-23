@@ -1,0 +1,2 @@
+class Killers:
+    killers = ["Trapper", "Wraith", "HillBilly", "Nurse", "Michael Myers", "Hag", "Doctor", "Huntress", "Cannibal", "Nightmare", "Pig", "Clown", "Spirit", "Legion", "Plague", "GhostFace", "Demogorgon", "Oni", "Deathslinger", "Executioner", "Blight", "Twins", "Tickster", "Nemesis", "Cenobite", "Artist", "Onryo", "Dredge", "Mastermind", "Knight", "Skull Merchant"]
